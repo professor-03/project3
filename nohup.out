@@ -1,0 +1,12 @@
+INFO [02-09|18:13:36.254] Starting Geth on Ethereum mainnet...
+INFO [02-09|18:13:36.254] Bumping default cache on mainnet         provided=1024 updated=4096
+INFO [02-09|18:13:36.255] Maximum peer count                       ETH=50 total=50
+INFO [02-09|18:13:36.257] Smartcard socket not found, disabling    err="stat /run/pcscd/pcscd.comm: no such file or directory"
+WARN [02-09|18:13:36.259] Sanitizing cache to Go's GC limits       provided=4096 updated=319
+Fatal: invalid --syncmode flag: unknown sync mode "light", want "full" or "snap"
+INFO [02-09|18:14:06.490] Starting Geth on Ethereum mainnet...
+INFO [02-09|18:14:06.491] Bumping default cache on mainnet         provided=1024 updated=4096
+INFO [02-09|18:14:06.493] Maximum peer count                       ETH=50 total=50
+INFO [02-09|18:14:06.495] Smartcard socket not found, disabling    err="stat /run/pcscd/pcscd.comm: no such file or directory"
+WARN [02-09|18:14:06.497] Sanitizing cache to Go's GC limits       provided=4096 updated=319
+Fatal: invalid --syncmode flag: unknown sync mode "light", want "full" or "snap"
